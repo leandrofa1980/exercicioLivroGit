@@ -2,9 +2,14 @@ body {
   width: 50%;
   margin: auto;
 }
+
 h1 {
-  font-family: sans-serif;
+  font: 800 1.8rem/1 'Nunito', sans-serif;
 }
+
 li {
   font-family: monospace;
+}
+h2 {
+  font: 400 1.2rem/1 'Nunito', sans-serif;
 }
